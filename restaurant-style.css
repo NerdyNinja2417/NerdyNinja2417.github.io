@@ -3,9 +3,8 @@
 
 }
 .grid {
-  columns: 16px
+  columns: 16px;
   border: 2px; 
   padding: 16px; background-color: aliceblue;
   margin: 16px;
 }
-
