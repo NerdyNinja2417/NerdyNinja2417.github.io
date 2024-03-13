@@ -91,7 +91,7 @@ button{
 }
 
 .text1{
-    color: lightslategray;
+    color: rgb(108, 123,139);
     text-align: right;
      padding: 5%;
      margin-right: 20%;
@@ -100,9 +100,10 @@ button{
 }
 
 .text2{
-    color: white;
+    color: rgb(108, 123, 139);
     text-align: right;
      padding: 5%;
-     margin-right: 20%;
+     margin-right: 25%;
      margin-top: -11%;
+     font-size: 12px;
 }
